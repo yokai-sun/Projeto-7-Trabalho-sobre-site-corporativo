@@ -47,3 +47,7 @@ body{
 .informacoesLocal{
     background-color: rgb(37, 127, 206);
 }
+.tutorial{
+    display: flex;
+    background-color: #bb9469;
+}
